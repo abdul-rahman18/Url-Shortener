@@ -1,0 +1,16 @@
+Url Shortener : 
+
+What it does ?
+When you have a long url, it can be used to shorten it.
+Also keeps track of no.of visit on the url.
+
+Reference : 
+Heard of bitly ?
+While creating a google form, we have an option to shorten the responder's link.
+
+Things i used : 
+- Express
+- Mongo
+- MVC 
+- nano id which was on npm : https://www.npmjs.com/package/nanoid
+- Middleware : Express.json
